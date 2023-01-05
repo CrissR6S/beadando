@@ -1,0 +1,10 @@
+-- A Projectem: 
+
+-- Kilistázza az adatbázis adatait a táblába.
+-- amit ki lehet jelölni.
+
+-- Tud felvenni adatokat 
+-- Tud módosítani adatokat
+-- Tud törölni adatokat 
+
+-- Az adatbázist a musor tábla tartalmazza a musor adatait, a szereplok tábla pedig a szereplők különféle adatait tárolja.
